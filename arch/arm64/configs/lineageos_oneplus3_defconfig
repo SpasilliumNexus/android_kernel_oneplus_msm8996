@@ -1,4 +1,5 @@
-CONFIG_LOCALVERSION="-lineageos"
+CONFIG_LOCALVERSION="-lineage-15.1-custom_kernel"
+# CONFIG_LOCALVERSION_AUTO is not set
 # CONFIG_SWAP is not set
 # CONFIG_USELIB is not set
 CONFIG_AUDIT=y
